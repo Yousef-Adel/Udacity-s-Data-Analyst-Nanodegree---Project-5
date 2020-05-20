@@ -11,7 +11,11 @@ YouTube (the world-famous video sharing website) maintains a list of the top tre
 Data requirements check:
 
 Include at least 600 observations (OK.)
+
 Include at least eight variables (OK.)
+
 Include at least one qualitative / categorical variable. (This can also be engineered / created.) (OK.)
+
 Include at least one numeric variable. (OK.)
+
 Tidiness (OK.)
