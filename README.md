@@ -21,18 +21,9 @@ Include at least one numeric variable. (OK.)
 Tidiness (OK.)
 
 # Summary of Findings
+- (like, dislike, views, comment count) log values are normally distributed 
 
-- Strong correlation between the number of views and the increase of likes for each videos.
-
-- Most of the likes ranges from 0 to 1 million the numbers reduses dramatically after 3 million (presentation)
-
-- Most of dislikes are between 0 to 250000 decresing radically after that (presentation)
-
-- Strong correlation between the number of views and the increase of dislike for each videos 
-
-- Strong positive correlation between the number of comments and views  
-
-- strong positive correlation between likes and comment_count 
+- The most common category is entertainment (presentation)
 
 - The most common words for channels names in US are (presentation)
 
@@ -42,8 +33,17 @@ Tidiness (OK.)
     -Netflix
     -Stephen Colbert
     -Starring Jimmy
+
+- Strong correlation between the number of views and the increase of dislike for each videos 
+
+- Strong positive correlation between the number of comments and views
+
+- strong positive correlation between likes and comment_count
+
+-(likes, dislikes, views, comment_count) distrubtion has a lot of outliers
     
 - The Highest channel in veiws is (ChildishGambinoVEVO)(presentation)
+
 - There are a lot of outliers in the distrubtion of likes, dislikes, comment_count, views in compare with category name 
 
 
