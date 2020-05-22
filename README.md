@@ -21,21 +21,20 @@ Include at least one numeric variable. (OK.)
 Tidiness (OK.)
 
 # Summary of Findings
+
 - Strong correlation between the number of views and the increase of likes for each videos.
 
-- Most of the likes ranges from 0 to 1 million the numbers reduses dramatically after 3 million 
+- Most of the likes ranges from 0 to 1 million the numbers reduses dramatically after 3 million (presentation)
 
-- Most of dislikes are between 0 to 250000 decresing radically after that
+- Most of dislikes are between 0 to 250000 decresing radically after that (presentation)
 
-- Strong correlation between the number of views and the increase of dislike for each videos
+- Strong correlation between the number of views and the increase of dislike for each videos 
 
 - Strong positive correlation between the number of comments and views  
 
-- strong positive correlation between likes and comment_count
+- strong positive correlation between likes and comment_count 
 
-- According to dataset the highest two years for veiws and likes are 2017, 2018.
-
-- The most common words for channels names in US are
+- The most common words for channels names in US are (presentation)
 
     -Late show
     -ESPN
@@ -44,4 +43,10 @@ Tidiness (OK.)
     -Stephen Colbert
     -Starring Jimmy
     
-- The Highest channel in veiws is (ChildishGambinoVEVO)
+- The Highest channel in veiws is (ChildishGambinoVEVO)(presentation)
+
+
+## Key Insights for Presentation
+
+There is a strong correlation between these four numerical variables (like, dislike, views, comment count). Except for likes and dislikes with each other, it becomes a weaker correlation. Surprisingly there is a strong correlation between views and dislike even you can get famous by doing something people hate. Most videos are in the entertainment category, which makes sense that the highest views are for the same category. The trendiest channel is ChildishGambinoVEVO, and is also categorized as entertainment content. The lowest category in the number of videos is Nonprofit, and activism which is an indicator YouTube platform is for entertainment for the most.
+
